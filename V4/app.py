@@ -17,7 +17,7 @@ EXCLUDED_DIRS = config["excluded_dirs"]
 
 
 st.set_page_config(layout="wide")
-st.title("📦 Git Review Tool V3")
+st.title("📦 Git Review Tool V4")
 
 
 # ---------------------------
